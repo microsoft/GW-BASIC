@@ -2,6 +2,9 @@
 
 This repo contains the original source-code for Microsoft's GW-BASIC interpreter, as of 1983.
 
+## Announcement blog
+https://devblogs.microsoft.com/commandline/microsoft-open-sources-gw-basic/
+
 ## Information
 
 This repo:
